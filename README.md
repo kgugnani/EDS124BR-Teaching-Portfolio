@@ -18,3 +18,5 @@ If-Else Target Game - https://youtu.be/OUjjQOhH2Wg
 
 Nested If-Else Game - https://youtu.be/4DFjwYp8VdI
 
+Compound Conditionals Game - https://youtu.be/XE3RJTmqjTM
+
